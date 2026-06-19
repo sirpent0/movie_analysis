@@ -48,7 +48,7 @@ The raw dataset was cleaned using Python (pandas). The following steps were appl
 
 ---
 
-## 🔍 Analysis & Visualizations
+## Analysis & Visualizations
 
 The Power BI dashboard (`MoviesAnalysis.pbix`) includes insights such as:
 
@@ -57,7 +57,6 @@ The Power BI dashboard (`MoviesAnalysis.pbix`) includes insights such as:
 - Movie distribution by language
 - Vote count trends over time
 
----
 
 ## Tools Used
 
