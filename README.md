@@ -12,7 +12,7 @@ movies_analysis/
 │   ├── movies_raw.csv          # Original dataset
 │   └── movies_analysis.csv     # Cleaned dataset
 ├── notebooks/
-│   └── movies_analysis.ipynb   # Data cleaning & EDA notebook
+│   └── movies_analysis.ipynb   # Data cleaning & EDA notebook with visualizations as well
 ├── dashboard/
   └── MoviesAnalysis.pbix     # Power BI dashboard
 ```
