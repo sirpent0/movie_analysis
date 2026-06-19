@@ -9,13 +9,12 @@ An end-to-end data analysis project exploring movie trends, popularity, ratings,
 ```
 movies_analysis/
 ├── data/
-│   ├── movies_raw.csv          # Original dataset (9 columns)
-│   └── movies_analysis.csv     # Cleaned dataset (7 columns)
+│   ├── movies_raw.csv          # Original dataset
+│   └── movies_analysis.csv     # Cleaned dataset
 ├── notebooks/
 │   └── movies_analysis.ipynb   # Data cleaning & EDA notebook
 ├── dashboard/
-│   └── MoviesAnalysis.pbix     # Power BI dashboard
-└── README.md
+  └── MoviesAnalysis.pbix     # Power BI dashboard
 ```
 
 ---
