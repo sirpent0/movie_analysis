@@ -17,7 +17,7 @@ movies_analysis/
   └── MoviesAnalysis.pbix     # Power BI dashboard
 ```
 
----
+
 
 ## Dataset
 
@@ -35,7 +35,7 @@ movies_analysis/
 | `Genre` | Movie genre(s) |
 | `Poster_Url` | URL to the movie poster image |
 
----
+
 
 ##  Data Cleaning
 
@@ -46,7 +46,6 @@ The raw dataset was cleaned using Python (pandas). The following steps were appl
 
 **Cleaned Dataset columns:** `Release_Date`, `Title`, `Popularity`, `Vote_Count`, `Vote_Average`, `Original_Language`, `Genre`
 
----
 
 ## Analysis & Visualizations
 
@@ -61,10 +60,10 @@ The Power BI dashboard (`MoviesAnalysis.pbix`) includes insights such as:
 ## Tools Used
 
 - **Python** (pandas) — data cleaning
-- **Jupyter Notebook** — exploratory data analysis
+- **Jupyter Notebook** — exploratory data analysis(google colab)
 - **Power BI** — interactive dashboard and visualizations
 
----
+
 
 ## Getting Started
 
@@ -86,8 +85,7 @@ The Power BI dashboard (`MoviesAnalysis.pbix`) includes insights such as:
 
 4. Open `dashboard/MoviesAnalysis.pbix` in Power BI Desktop to explore the dashboard
 
----
 
-## 📌 Dataset Source
+##  Dataset Source
 
 Kaggle
