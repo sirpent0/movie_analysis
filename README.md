@@ -1,8 +1,7 @@
 # Movies Analysis
 
-An end-to-end data analysis project exploring movie trends, popularity, ratings, and genres using Python and Power BI.
+An end-to-end data analysis project exploring movie trends, popularity, ratings and genres using Python and Power BI.
 
----
 
 ## Project Structure
 
